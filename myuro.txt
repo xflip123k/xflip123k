@@ -1,0 +1,8 @@
+SOF
+Please read this file before executing myuro.sh
+https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab34-CID99-ID19ypgU.html - 150
+https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab36-CID99-ID19FD37.html - 169
+https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab37-CID99-ID19FMVd.html - 99
+https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab35-CID99-ID19FAhi.html - 299
+https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab38-CID99-ID19FOhV.html - 50
+EOF
