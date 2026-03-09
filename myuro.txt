@@ -1,4 +1,4 @@
 SOF
-Please read this file before executing myuro.sh
+Please read this file before executing myuro.exe
 https://www.olx.pl/d/oferta/tablet-microsoft-surface-go-1824-10-4-gb-64-gb-srebrny-tab34-CID99-ID19ypgU.html
 EOF
